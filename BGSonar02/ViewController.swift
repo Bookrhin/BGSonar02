@@ -12,8 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        let smellCode = ["object1","object2","object3"]
+        if smellCode.count <= 0 {
+            print("log smeallcode")
+        }
     }
 
-    bug
+    
 }
 
