@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         if smellCode.count <= 0 {
             print("log smeallcode")
         }
+        
+        //testdtibng
     }
 
     
